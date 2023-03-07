@@ -1,0 +1,7 @@
+*1 - Provavelmente é só minha mas eu ainda tenho dificuldade para trabalhar com strings em C. Eu sei a teoria e tudo mais mas nunca sei utilizar direito, então queria saber
+	se tem algum material bom de C que explique com exemplos essa parte.
+
+*2 - Quanto à função malloc, até onde eu entendi ela é uma função do tipo void e seria por isso que precisamos fazer um cast antes de alocar a memória, mas como ela funciona
+	exatamente? Pois se ela é void como ela retornaria algum resultado no final?
+
+*3 - Ainda sobre o cast eu não sei o que exatamente ele faz quando chamamos por exemplo em "(int*) malloc(sizeof(int*))", nesse caso o que exatamente está acontecendo?
