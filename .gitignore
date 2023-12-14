@@ -1,2 +1,6 @@
-# Ignore .vs/ folder
+# Ignores
 .vs/
+*.pdf
+*.ods
+*.exe
+*.odt
