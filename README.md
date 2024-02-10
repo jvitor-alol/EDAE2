@@ -4,13 +4,9 @@ Estruturas de dados IFSP 2020
 # Material
 http://www.each.usp.br/digiampietri/ed/
 
-## Playlist
-https://www.youtube.com/playlist?list=PLOL-W4tRK3E9znpRqjk34OwuBjzl7nDeg
-
 ## Mais:
 ### (AULA 2)
 - http://linguagemc.com.br/struct-em-c/
-- https://www.ime.usp.br/~pf/algoritmos/aulas/footnotes/typedef.html
 - http://linguagemc.com.br/redefinicao-de-tipos-com-typedef/
 - https://www.cprogressivo.net/2013/03/typedef-Como-declarar-seus-proprios-tipos-em-C.html
 
